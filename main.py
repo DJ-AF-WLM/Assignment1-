@@ -33,3 +33,15 @@ print("CS 1430  |  Introduction to Python  |  UW-Platteville")
 
 
 # ---------------------- ADD YOUR CODE BELOW THIS LINE ---------------------
+Name = """ 
+
+  DDDD       JJJJJJJJ
+  DD DD         JJ
+  DD  DD        JJ
+  DD   DD       JJ
+  DD  DD        JJ
+  DD DD     JJ  JJ
+  DDDD       JJJJ                           
+                                               
+"""
+print(Name)
